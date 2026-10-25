@@ -1,0 +1,8 @@
+{
+  "name": "dk-ai-shop",
+  "version": "3.0.0",
+  "private": true,
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "dependencies": { "next": "^16.4.3", "react": "^19.3.1", "react-dom": "^19.3.1" },
+  "engines": { "node": ">=20.9" }
+}

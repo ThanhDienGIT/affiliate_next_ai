@@ -1,0 +1,59 @@
+[
+  {
+    "id": "c1claude01",
+    "title": "Claude từ A–Z: Code, Cowork văn phòng & Tự động hóa",
+    "tool": "Claude",
+    "tagline": "Biến Claude thành trợ lý lập trình và trợ lý văn phòng của riêng bạn",
+    "badge": "Mới",
+    "image": "",
+    "fit": "cover",
+    "level": "Từ cơ bản đến thực chiến",
+    "format": "Học online + hỗ trợ khi làm bài",
+    "topics": ["Lập trình", "Edit", "Tự động hóa", "Tổng hợp báo cáo"],
+    "outcomes": [
+      "Dùng Claude Code để dựng và sửa dự án thật",
+      "Giao việc văn phòng cho Claude (Cowork): xử lý file, soạn tài liệu",
+      "Tự động hóa quy trình lặp lại hằng ngày",
+      "Tự tổng hợp báo cáo từ dữ liệu và tài liệu rời rạc"
+    ],
+    "modules": [
+      "Bắt đầu: cách viết yêu cầu để Claude làm đúng ý",
+      "Lập trình với Claude Code: từ ý tưởng đến chạy được",
+      "Edit: chỉnh sửa nội dung, tài liệu, code hàng loạt",
+      "Cowork văn phòng: giao việc, kiểm tra và nghiệm thu kết quả",
+      "Tự động hóa công việc lặp lại",
+      "Tổng hợp báo cáo tự động"
+    ],
+    "price": 0,
+    "note": "Nhắn Zalo để nhận lộ trình và học phí",
+    "hidden": false
+  },
+  {
+    "id": "c2gemini01",
+    "title": "Gemini & Antigravity: Lập trình, Edit và Tự động hóa",
+    "tool": "Gemini",
+    "tagline": "Dùng Gemini và Antigravity (IDE có AI agent) để làm nhanh gấp nhiều lần",
+    "badge": "",
+    "image": "",
+    "fit": "cover",
+    "level": "Từ cơ bản đến thực chiến",
+    "format": "Học online + hỗ trợ khi làm bài",
+    "topics": ["Lập trình", "Edit", "Tự động hóa", "Tổng hợp báo cáo"],
+    "outcomes": [
+      "Làm quen và làm chủ Antigravity để lập trình cùng AI agent",
+      "Dùng Gemini để viết, chỉnh sửa và tóm tắt nội dung",
+      "Tự động hóa việc lặp lại trong hệ sinh thái Google",
+      "Tự tổng hợp báo cáo từ tài liệu và dữ liệu có sẵn"
+    ],
+    "modules": [
+      "Bắt đầu: chọn gói Gemini và thiết lập môi trường",
+      "Lập trình với Antigravity: giao việc cho agent",
+      "Edit: chỉnh sửa nội dung và code nhanh",
+      "Tự động hóa công việc với Gemini",
+      "Tổng hợp báo cáo tự động"
+    ],
+    "price": 0,
+    "note": "Nhắn Zalo để nhận lộ trình và học phí",
+    "hidden": false
+  }
+]

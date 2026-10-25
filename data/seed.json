@@ -1,0 +1,135 @@
+[
+  {
+    "id": "a1gemini01",
+    "name": "Gemini Pro",
+    "category": "Công việc, học tập",
+    "tagline": "AI của Google – viết, học, lập trình và làm việc trong hệ sinh thái Google",
+    "summary": "Gói Gemini Pro dùng mail chính chủ của bạn. Mạnh ở học tập, tổng hợp tài liệu, viết nội dung và lập trình cùng Antigravity.",
+    "benefits": [
+      "Dùng mô hình Gemini Pro cho viết, phân tích, tóm tắt tài liệu dài",
+      "Mở khóa Antigravity – môi trường lập trình có AI agent",
+      "Tạo ảnh, video bằng AI và dùng NotebookLM để học/nghiên cứu",
+      "Tích hợp ngay trong Gmail, Docs, Drive – đỡ phải chuyển qua lại"
+    ],
+    "audience": "Sinh viên, người đi làm văn phòng, lập trình viên",
+    "badge": "Giảm 50%",
+    "icon": "G",
+    "color": "#1a73e8",
+    "hidden": false,
+    "plans": [
+      { "label": "Gemini Pro 18/Tháng – mail chính chủ", "price": 79000, "note": "Nhắn tin sớm để được giảm còn 50%", "cost": null, "stock": null }
+    ]
+  },
+  {
+    "id": "a2chatgpt1",
+    "name": "ChatGPT",
+    "category": "Công việc, học tập",
+    "tagline": "Trợ lý AI đa năng – kèm Codex cho dân lập trình",
+    "summary": "ChatGPT trả phí: trả lời nhanh, phân tích file, viết nội dung, và Codex hỗ trợ viết/sửa/review code.",
+    "benefits": [
+      "Dùng mô hình mới nhất với giới hạn cao hơn bản miễn phí",
+      "Codex – trợ lý lập trình AI viết, sửa và review code",
+      "Phân tích file (PDF, Excel, ảnh), tìm kiếm web, nghiên cứu chuyên sâu",
+      "Tạo ảnh và tùy chỉnh GPT riêng cho công việc"
+    ],
+    "audience": "Lập trình viên, marketer, người viết nội dung, sinh viên",
+    "badge": "Bán chạy",
+    "icon": "C",
+    "color": "#10a37f",
+    "hidden": false,
+    "plans": [
+      { "label": "ChatGPT 1 tháng", "price": 59000, "note": "", "cost": null, "stock": null },
+      { "label": "ChatGPT 3 tháng", "price": 159000, "note": "Tiết kiệm hơn mua lẻ 3 lần", "cost": null, "stock": null }
+    ]
+  },
+  {
+    "id": "a3canva001",
+    "name": "Canva Pro",
+    "category": "Đặc thù ngành",
+    "tagline": "Thiết kế poster, bài đăng, thumbnail nhanh – dành cho làm content",
+    "summary": "Mở khóa kho template, ảnh, font và công cụ AI của Canva Pro. Rất hợp người bán hàng online, freelancer, giáo viên.",
+    "benefits": [
+      "Toàn bộ template, ảnh, video, font bản Pro",
+      "Xóa nền, đổi cỡ thiết kế 1 chạm, công cụ AI tạo ảnh",
+      "Làm bài đăng mạng xã hội, banner, CV, slide thuyết trình",
+      "Slot edu giá rẻ cho người chỉ cần dùng cơ bản"
+    ],
+    "audience": "Người bán hàng online, content creator, giáo viên, sinh viên",
+    "badge": "",
+    "icon": "Cv",
+    "color": "#7c3aed",
+    "hidden": false,
+    "plans": [
+      { "label": "Canva slot edu (like Pro 99%) – 3 năm", "price": 39000, "note": "Giá bán gợi ý – bạn chỉnh lại", "cost": 20000, "stock": 496 },
+      { "label": "Slot Canva Pro 1 năm", "price": 149000, "note": "Giá bán gợi ý – bạn chỉnh lại", "cost": 110000, "stock": 68 }
+    ]
+  },
+  {
+    "id": "a4capcut01",
+    "name": "CapCut Pro",
+    "category": "Đặc thù ngành",
+    "tagline": "Dựng video ngắn chuyên nghiệp cho TikTok, Reels, Shorts",
+    "summary": "CapCut Pro bỏ watermark, mở khóa hiệu ứng, phụ đề tự động và công cụ AI. Cần thiết cho người làm kênh và bán hàng bằng video.",
+    "benefits": [
+      "Mở khóa hiệu ứng, bộ lọc, font, nhạc bản Pro",
+      "Phụ đề tự động, tách nền, nâng chất lượng video bằng AI",
+      "Xuất video chất lượng cao, không giới hạn tính năng Pro",
+      "Gói Team dùng chung cho nhóm làm video"
+    ],
+    "audience": "Creator TikTok/Reels, người bán hàng livestream, editor",
+    "badge": "",
+    "icon": "Cc",
+    "color": "#111827",
+    "hidden": false,
+    "plans": [
+      { "label": "CapCut Pro Team 1 tháng", "price": 89000, "note": "Giá bán gợi ý – bạn chỉnh lại", "cost": 60000, "stock": 112 },
+      { "label": "CapCut 6 tháng (cá nhân)", "price": 569000, "note": "Giá bán gợi ý – bạn chỉnh lại", "cost": 499000, "stock": 12 }
+    ]
+  },
+  {
+    "id": "a5youtube1",
+    "name": "YouTube Premium",
+    "category": "Giải trí",
+    "tagline": "Xem YouTube không quảng cáo, nghe nhạc nền, tải video offline",
+    "summary": "Trải nghiệm xem video mượt, không bị ngắt quãng, nghe nhạc khi tắt màn hình – hợp cả giải trí lẫn học qua video.",
+    "benefits": [
+      "Không quảng cáo trên toàn bộ video",
+      "Phát nền và tắt màn hình vẫn nghe tiếp",
+      "Tải video xem offline",
+      "Kèm YouTube Music Premium"
+    ],
+    "audience": "Ai xem YouTube hằng ngày, học qua video, nghe nhạc",
+    "badge": "",
+    "icon": "Yt",
+    "color": "#dc2626",
+    "hidden": false,
+    "plans": [
+      { "label": "Slot YouTube Premium 3 tháng (BHF)", "price": 159000, "note": "Giá bán gợi ý – bạn chỉnh lại", "cost": 120000, "stock": null },
+      { "label": "Slot YouTube Premium 6 tháng (BHF)", "price": 299000, "note": "Giá bán gợi ý – bạn chỉnh lại", "cost": 245000, "stock": null },
+      { "label": "Slot YouTube Premium 1 năm (BHF)", "price": 399000, "note": "Giá bán gợi ý – bạn chỉnh lại", "cost": 350000, "stock": null }
+    ]
+  },
+  {
+    "id": "a6claude01",
+    "name": "Claude",
+    "category": "Công việc, học tập",
+    "tagline": "AI của Anthropic – lập trình, xử lý tài liệu văn phòng và tự động hóa công việc",
+    "summary": "Claude mạnh ở viết code, đọc và xử lý tài liệu dài, và làm việc như một trợ lý văn phòng thực thụ.",
+    "benefits": [
+      "Claude Code: viết, sửa, chạy và kiểm thử code ngay trong dự án",
+      "Cowork văn phòng: giao việc xử lý file, báo cáo, tài liệu cho AI làm giúp",
+      "Tự động hóa công việc lặp lại, tổng hợp báo cáo từ nhiều nguồn",
+      "Đọc và phân tích tài liệu dài, file Excel, PDF"
+    ],
+    "audience": "Lập trình viên, nhân viên văn phòng, chủ shop, freelancer",
+    "badge": "Mới",
+    "icon": "Cl",
+    "color": "#d97757",
+    "hidden": false,
+    "image": "",
+    "fit": "cover",
+    "plans": [
+      { "label": "Claude – liên hệ báo giá gói", "price": 0, "note": "Nhắn Zalo để chọn gói phù hợp", "cost": null, "stock": null }
+    ]
+  }
+]
